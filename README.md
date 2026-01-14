@@ -26,7 +26,7 @@
 ##
 
 <div align="center">
-  <a href="https://instagram.com/" target="_blank">
+  <a href="https://www.instagram.com/gabrielsnts.__?igsh=MTVsZ3d2Y2twOTNhZA%3D%3D&utm_source=qr" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a href="https://discord.gg/" target="_blank">
