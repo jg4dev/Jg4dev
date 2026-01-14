@@ -32,10 +32,10 @@
   <a href="https://discord.gg/" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
   </a>
-  <a href="mailto:contato@gmail.com">
+  <a href="mailto:jg447081@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="www.linkedin.com/in/joão-gabriel-santos-da-silva-579335352" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
